@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 2,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 3,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 4,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 5,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 6,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    },{
+      "id": 7,
+      "sno": 101,
+      "sname": "阿朱",
+      "sex": "女",
+      "birthday": "1998-01-01",
+      "native": "山西运城",
+      "QQ": "123456",
+      "telephone": "12345678",
+      "isgetjob": "是"
+    }
+  ]
+}
